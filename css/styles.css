@@ -1,0 +1,43 @@
+body {
+    background: rgb(198, 183, 183);
+    margin: 50px;
+}
+
+h1 {
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+    text-align: center;
+}
+
+.skills {
+    text-align: center;
+}
+
+.skils ul {
+    margin-left: -50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.skills li {
+    padding-left: -50%;
+    display: flex;
+    justify-content: space-around;
+}
+
+#image-profile {
+    padding: 50px;
+    margin: 20px;
+    border: 20px;
+}
+
+footer {
+    text-align: right;
+}
+
+#name {
+    border-radius: 10px;
+}
